@@ -2,9 +2,9 @@
 //program name must be same as Main class name
 class DisplayHello
 {
-	public static void main {string args[]}
-}
+	public static void main (String args[])
 { 
-system.out.print("Hello");
-system.out.println("Hello!");
+System.out.print("Hello");
+System.out.println("Hello!");
+}
 }
